@@ -5,7 +5,7 @@ Here some little tools useful for php development.
 Main scripts are: 
  
   - Quickly set symfony2 cache permission
-   - Quickly switch and show php version
+  - Quickly switch and show php version
 
    PHP - version
    -----
@@ -18,7 +18,7 @@ Main scripts are:
    Linking /usr/local/Cellar/php55/5.5.1... 486 symlinks created
    (5.5.1) ~  ᐅ
    ```
-   As you can see in the bash is exposed the version you using.
+   As you can see in the bash is exposed the version you are using.
    This script is based on **brew** and **oh-my-zsh**
 
    Insert inside __~/.zshrc__ this line:
