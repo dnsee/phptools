@@ -3,7 +3,8 @@ Introduction
 
 Requirements:
 - brew
-- oh-my-sh
+- installed different php versions with brew
+- oh-my-zsh
 
 Here some little tools useful for php development.
 Main scripts are: 
